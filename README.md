@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/xfce-vm-rice>
 # xfce-vm-rice
 a small xfce rice I did in a vm
 
